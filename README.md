@@ -4,7 +4,7 @@ Seamless communication between an iframe and a parent page.
 
 ## Demo
 
-[http://baskren.github.io/iframe-communication](http://baskren.github.io/iframe-communication/)
+[http://baskren.github.io/iframe-communication/parent.html](http://baskren.github.io/iframe-communication/parent.html)
 
 The main difference between the code in the two pages (parent and iframe) is the method of sending messages. Recieving messages is done using the same code.
 
